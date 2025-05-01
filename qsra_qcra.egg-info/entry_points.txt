@@ -1,0 +1,2 @@
+[console_scripts]
+qsra_qcra = qsra_qcra.cli:cli

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: qsra-qcra
+Version: 0.2.0
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: click
+Requires-Dist: openpyxl>=3.1.0
+Requires-Dist: dash
+Requires-Dist: plotly

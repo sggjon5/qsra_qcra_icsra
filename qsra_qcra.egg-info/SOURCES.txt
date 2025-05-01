@@ -1,0 +1,8 @@
+README.md
+setup.py
+qsra_qcra.egg-info/PKG-INFO
+qsra_qcra.egg-info/SOURCES.txt
+qsra_qcra.egg-info/dependency_links.txt
+qsra_qcra.egg-info/entry_points.txt
+qsra_qcra.egg-info/requires.txt
+qsra_qcra.egg-info/top_level.txt

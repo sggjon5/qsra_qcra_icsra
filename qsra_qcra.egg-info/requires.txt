@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+click
+openpyxl>=3.1.0
+dash
+plotly
