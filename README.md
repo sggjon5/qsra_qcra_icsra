@@ -110,7 +110,7 @@ A sample file is provided in `sample_inputs/sample_tasks.csv`.
 ## Command‑Line Interface (CLI)
 
 ### Static Run
-Numbers used as poarameters here are somewhat suited to example file provided but should be changed to suit each pojec being assessed.
+Numbers used as parameters here are somewhat suited to example file provided but should be changed to suit each project being assessed.
 
 ```bash
 qsra_qcra run \
