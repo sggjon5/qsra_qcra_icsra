@@ -1,6 +1,7 @@
 Metadata-Version: 2.1
 Name: qsra-qcra
-Version: 0.2.0
+Version: 2.2.0
+License-File: LICENSE
 Requires-Dist: numpy
 Requires-Dist: pandas
 Requires-Dist: matplotlib
