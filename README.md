@@ -6,6 +6,12 @@ This Python package provides a Monte Carlo–based engine for Quantitative Sched
 
 ---
 
+<img width="906" height="450" alt="1746528258706" src="https://github.com/user-attachments/assets/df26bfba-0b8d-437f-91bf-4f29b79a9f4b" />
+<img width="1889" height="450" alt="1746528258638" src="https://github.com/user-attachments/assets/2a9f6f2c-f198-4801-b2b6-e6cf8d1b55b7" />
+<img width="1836" height="871" alt="1746528258724" src="https://github.com/user-attachments/assets/f0327dc7-efcf-452b-badd-8fccaef0413c" />
+
+---
+
 ## Table of Contents
 
 1. [Features](#features)
