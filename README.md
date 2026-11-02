@@ -60,7 +60,7 @@ This Python package provides a Monte Carlo–based engine for Quantitative Sched
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/qsra_qcra.git
+   git clone https://github.com/sggjon5/qsra_qcra_icsra
    cd qsra_qcra
    ```
 2. (Recommended) Create and activate a Conda environment:
