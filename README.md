@@ -68,12 +68,18 @@ This Python package provides a Monte Carlo–based engine for Quantitative Sched
    conda create -n qsra_qcra python=3.11
    conda activate qsra_qcra
    ```
-3. Install in editable mode:
+   Alternatively, you can create and activate a virtual environment:
+   ```bash
+   # here, './venv' is a path of your choosing for a new directory to be created here
+   python -m venv ./venv
+   source venv/bin/activate
+   ```
+4. Install in editable mode:
    ```bash
    pip install --upgrade pip
    pip install -e .
    ```
-4. Ensure `openpyxl` is up to date:
+5. Ensure `openpyxl` is up to date:
    ```bash
    pip install --upgrade openpyxl
    ```
